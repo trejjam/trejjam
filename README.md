@@ -1,6 +1,6 @@
 # Hi, I'm Jan Trejbal
 
-Senior backend engineer based in Toulouse, France.
+Based in Toulouse, France.
 For the full story, see my CV: **[jan.trejbal.land](https://jan.trejbal.land)**.
 
 ## What I do
