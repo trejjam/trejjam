@@ -19,19 +19,19 @@ I'm a senior backend engineer at **[Aviationexam](https://www.aviationexam.com)*
 
 ## Featured projects
 
-### Source generators & SDKs
+### Source generators
 
-- **[json-converter-source-generator](https://github.com/trejjam/json-converter-source-generator)** — Source-generated polymorphic JSON converters for .NET
-- **[git-reader-source-generator](https://github.com/trejjam/git-reader-source-generator)** — Compile-time Git metadata for .NET
-- **[Aviationexam.PayPalSdk](https://github.com/trejjam/Aviationexam.PayPalSdk)** — .NET SDK for PayPal Checkout REST APIs
-- **[apple-app-store-connect-api](https://github.com/trejjam/apple-app-store-connect-api)** — .NET client for the App Store Connect API
+- **[json-converter-source-generator](https://github.com/aviationexam/json-converter-source-generator)** — Source-generated polymorphic JSON converters for .NET
+- **[git-reader-source-generator](https://github.com/aviationexam/git-reader-source-generator)** — Compile-time Git metadata for .NET
 
-### Integrations & APIs
+### APIs & integrations
 
+- **[Aviationexam.PayPalSdk](https://github.com/aviationexam/Aviationexam.PayPalSdk)** — .NET SDK for PayPal Checkout REST APIs
+- **[apple-app-store-connect-api](https://github.com/aviationexam/apple-app-store-connect-api)** — .NET client for the App Store Connect API
 - **[FreshdeskApiDotnet](https://github.com/DaveTCode/FreshdeskApiDotnet)** — Lightweight .NET wrapper around the Freshdesk REST API (maintainer)
-- **[Aviationexam.MoneyErp](https://github.com/trejjam/Aviationexam.MoneyErp)** — MoneyERP integration for .NET
-- **[daktela-http-client](https://github.com/trejjam/daktela-http-client)** — .NET client for the Daktela contact-center API
-- **[reporting-api](https://github.com/trejjam/reporting-api)** — Reporting API
+- **[Aviationexam.MoneyErp](https://github.com/aviationexam/Aviationexam.MoneyErp)** — MoneyERP integration for .NET
+- **[daktela-http-client](https://github.com/aviationexam/daktela-http-client)** — .NET client for the Daktela contact-center API
+- **[reporting-api](https://github.com/aviationexam/reporting-api)** — Reporting API
 
 ## Off the keyboard
 
