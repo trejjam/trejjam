@@ -33,6 +33,12 @@ I'm a senior backend engineer at **[Aviationexam](https://www.aviationexam.com)*
 - **[daktela-http-client](https://github.com/aviationexam/daktela-http-client)** — .NET client for the Daktela contact-center API
 - **[reporting-api](https://github.com/aviationexam/reporting-api)** — Reporting API
 
+### Tooling & infrastructure
+
+- **[Aviationexam.DependencyUpdater](https://github.com/aviationexam/Aviationexam.DependencyUpdater)** — Dependency update automation for our repositories
+- **[docker-compose-builder](https://github.com/aviationexam/docker-compose-builder)** — Generate Docker Compose files in C# using the builder pattern
+- **[deckschrubber](https://github.com/aviationexam/deckschrubber)** — Cleans up old images from a Docker Registry
+
 ## Off the keyboard
 
 - Renovating a house in Toulouse
